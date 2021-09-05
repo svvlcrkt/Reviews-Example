@@ -9,6 +9,11 @@ HTML, CSS, JavaScript
 ## Used Resources
 https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org
 
+### About The Project:
+When you click the forward key, moves to the next person. 
+When you click the backward key, moves to the previous person.
+When you click the Surprise Me key, shows any person with random function.
+
 ### PROJECT VİEW:
 
 <img width="960" alt="rev-ex" src="https://user-images.githubusercontent.com/63058707/132128096-8be30661-9aa5-41aa-ac9e-aeeae74be417.png">
