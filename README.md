@@ -10,8 +10,8 @@ HTML, CSS, JavaScript
 https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org
 
 ### About The Project:
-When you click the forward key, moves to the next person. 
-When you click the backward key, moves to the previous person.
+When you click the forward key, moves to the next person. <br>
+When you click the backward key, moves to the previous person. <br>
 When you click the Surprise Me key, shows any person with random function.
 
 ### PROJECT VİEW:
