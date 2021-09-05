@@ -16,4 +16,4 @@ When you click the Surprise Me key, shows any person with random function.
 
 ### PROJECT VİEW:
 
-<img width="960" alt="rev-ex" src="https://user-images.githubusercontent.com/63058707/132128096-8be30661-9aa5-41aa-ac9e-aeeae74be417.png">
+<img width="960" alt="rev-ex" src="https://user-images.githubusercontent.com/63058707/132128246-78e6ff17-2dec-4932-ba4f-8c917394644a.png">
