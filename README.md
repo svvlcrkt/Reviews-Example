@@ -5,7 +5,9 @@
 Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
 This is my 3rd project in this series.  In addition, I am learning <b>jQuery</b>. I am uploading both <b>JavaScript</b> and <b>jQuery</b> files to the project files.*<br><br>
 *<b>Finally;</b>
-you can also acces my [1st](https://github.com/svvlcrkt/Simple-Color-Flipper) and [2nd](https://github.com/svvlcrkt/Counter-Example) project files*.
+you can also acces my other project files:*
+* *[Simple-Color-Flipper](https://github.com/svvlcrkt/Simple-Color-Flipper)*
+* *[Counter-Example](https://github.com/svvlcrkt/Counter-Example)* 
 
 ## *Online demo:*
 *https://reviews-example.netlify.app/*
